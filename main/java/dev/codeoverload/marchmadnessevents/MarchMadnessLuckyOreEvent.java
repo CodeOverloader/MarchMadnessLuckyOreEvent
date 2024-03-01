@@ -17,7 +17,7 @@ import java.util.Random;
 
 public class MarchMadnessLuckyOreEvent extends JavaPlugin implements Listener {
 
-    private static final double DROP_CHANCE = 0.01; // 5% chance
+    private static final double DROP_CHANCE = 0.1; // 10% chance
     private ItemStack customItem;
 
     @Override
