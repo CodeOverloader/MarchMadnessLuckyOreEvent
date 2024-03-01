@@ -1,0 +1,4 @@
+name: MarchMadnessEvents
+version: '${version}'
+main: dev.codeoverload.marchmadnessevents.MarchMadnessEvents
+api-version: '1.20'
