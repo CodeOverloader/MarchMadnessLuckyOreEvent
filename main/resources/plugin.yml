@@ -1,4 +1,4 @@
 name: MarchMadnessEvents
 version: '${version}'
-main: dev.codeoverload.marchmadnessevents.MarchMadnessEvents
+main: dev.codeoverload.marchmadnessevents.MarchMadnessLuckyOreEvent
 api-version: '1.20'
